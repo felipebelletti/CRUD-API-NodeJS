@@ -1,8 +1,9 @@
 # CRUD API focused on business license management
 ## Description
 Awesome API Rest using Express + PostgreSQL via Prisma, focused on business software license management, supporting custom license types.
+Featuring also a Swagger Documentation.
 ## Swagger Documentation
-Swagger documentation is available here
+Swagger documentation is [available here](https://app.swaggerhub.com/apis-docs/felipebelletti/SimpleLicenseAPI/1.0.0#/)
 ## Installation/Execution
 ### Deploying/configuring database schema (via scripts)
 1. Create a `.env` file following the .env.template schema.
